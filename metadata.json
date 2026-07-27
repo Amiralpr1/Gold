@@ -1,0 +1,6 @@
+{
+  "name": "طلا و ارز",
+  "description": "قیمت لحظه‌ای طلا، سکه و ارز به همراه ویجت‌های خانه و بهروزرسانی خودکار ۶۰ ثانیه‌ای",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
